@@ -92,10 +92,12 @@ HighCloud_Airlines_Analysis/
 ### Tableau Dashboard
 
 * Route utilization visuals
-* YoY and monthly trend breakdowns
-* Capacity vs demand comparison
+* YOY Load Factor %
+* No. of flights based on Distance groups
+* Top 10 load carrier names by passengers count
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ed2b1d67-66b2-4960-824f-7d3b13d7c35f" />
+<img width="1920" height="1200" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/4bcb5924-02a6-4708-944d-6247ba94e6e0" />
+
 
 ---
 
@@ -104,7 +106,6 @@ HighCloud_Airlines_Analysis/
 * Identified **routes with load factor below 60% despite high seat capacity**
 * Calculated **overall and route-level load factor** using conditional logic
 * Used **window functions** for running totals and trend analysis
-* Performed **aggregation & ranking** to highlight top and bottom routes
 
 ---
 
