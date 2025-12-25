@@ -39,7 +39,6 @@ Through this project, I gained hands-on experience in:
 ## 📊 Key Metrics Analyzed
 
 * **Load Factor (%)**
-* **Total Available Seats vs Transported Passengers**
 * **Route-wise & City-pair Performance**
 * **Year-over-Year (YoY) Trends**
 * **Underperforming Routes (High Capacity, Low Utilization)**
@@ -53,9 +52,8 @@ Through this project, I gained hands-on experience in:
 HighCloud_Airlines_Analysis/
 │
 ├── SQL/
-│   ├── Load Factor.sql              # Load factor & utilization analysis
-│   ├── YOY Analysis.sql             # Year-over-year performance
-│   ├── Route Performance.sql        # Route-level insights
+│   ├── Load Factor.sql              # Load factor & utilization analysis 
+│   
 │
 ├── Excel/
 │   └── Airlines project.xlsx        # Data validation & pivot checks
