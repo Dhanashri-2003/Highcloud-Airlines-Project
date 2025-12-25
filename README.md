@@ -67,9 +67,6 @@ HighCloud_Airlines_Analysis/
 ├── Presentation/
 │   └── Airlines Project.pptx        # Business insights deck
 │
-├── Documentation/
-│   └── Highcloud Airlines.pdf       # Project summary
-│
 └── README.md
 ```
 
