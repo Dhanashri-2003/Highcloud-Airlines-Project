@@ -31,8 +31,8 @@ Through this project, I gained hands-on experience in:
 * **SQL (MySQL)** – Data cleaning, transformation & KPI calculations
 * **Excel** – Data validation, pivot analysis & cross-checking
 * **Power BI** – Interactive dashboards & KPI tracking
-* **Tableau** – Visual storytelling & trend analysis
-* **PowerPoint** – Executive-level presentation of insights
+* **Tableau** – Tableau – Data visualization & trend analysis
+* **PowerPoint** – for presentating the insights
 
 ---
 
