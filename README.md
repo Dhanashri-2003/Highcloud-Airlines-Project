@@ -6,13 +6,13 @@ This is my **second end-to-end data analytics project**, focused on analyzing **
 
 The goal of this project is to derive **business-ready insights** around **load factor, route performance, capacity utilization, passenger trends, and revenue patterns**, and present them in a way that supports **strategic decision-making**.
 
-This project demonstrates my ability to:
+Through this project, I gained hands-on experience in:
 
-* Ask the **right business questions**
-* Perform **structured SQL analysis**
-* Validate data using **Excel**
-* Build **interactive dashboards** in Power BI & Tableau
-* Communicate insights clearly through presentations
+* Asking the **right business questions**
+* Performing **structured SQL analysis**
+* Validating data using **Excel**
+* Building **interactive dashboards** in Power BI & Tableau
+* Communicating insights clearly through presentations
 
 ---
 
@@ -86,11 +86,16 @@ HighCloud_Airlines_Analysis/
 * Time-series trend analysis
 * Filters for Year, Route, Aircraft
 
+<img width="699" height="396" alt="image" src="https://github.com/user-attachments/assets/f46be2cd-237f-45ee-b147-bd567647d0d3" />
+ 
+
 ### Tableau Dashboard
 
 * Interactive route utilization visuals
 * YoY and monthly trend breakdowns
 * Capacity vs demand comparison
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ed2b1d67-66b2-4960-824f-7d3b13d7c35f" />
 
 ---
 
