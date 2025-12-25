@@ -64,9 +64,9 @@ HighCloud_Airlines_Analysis/
 ├── Tableau/
 │   └── Airlines Project.twbx
 │
-├── Presentation/
-│   └── Airlines Project.pptx        # Business insights deck
-│
+├── Documentation/        
+│   └── Highcloud Airlines.pdf        # Project summary
+│ 
 └── README.md
 ```
 
