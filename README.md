@@ -117,15 +117,6 @@ HighCloud_Airlines_Analysis/
 
 ---
 
-## 🎯 What This Project Demonstrates
-
-✔ Strong SQL fundamentals (joins, aggregations, window functions)
-✔ Business-oriented analytical thinking
-✔ Dashboard design for decision-makers
-✔ Ability to translate data into actionable insights
-✔ End-to-end analytics workflow
-
----
 
 ## 🚀 Next Improvements (Future Scope)
 
