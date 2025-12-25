@@ -81,17 +81,17 @@ HighCloud_Airlines_Analysis/
 
 ### Power BI Dashboard
 
-* KPI Cards: Load Factor, Total Passengers, Total Capacity
+* KPI Cards: Load Factor, Total Airlines
 * Route-wise performance comparison
 * Time-series trend analysis
-* Filters for Year, Route, Aircraft
+* Filters for Year, Carrier Names, Weekday V/S Weekend
 
 <img width="699" height="396" alt="image" src="https://github.com/user-attachments/assets/f46be2cd-237f-45ee-b147-bd567647d0d3" />
  
 
 ### Tableau Dashboard
 
-* Interactive route utilization visuals
+* Route utilization visuals
 * YoY and monthly trend breakdowns
 * Capacity vs demand comparison
 
