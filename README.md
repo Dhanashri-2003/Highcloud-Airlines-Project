@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This is my **second end-to-end data analytics project**, focused on analyzing **HighCloud Airlines' operational and sales performance** using **SQL, Excel, Power BI, and Tableau**.
+This project focuses on analyzing **HighCloud Airlines' operational and sales performance** using **SQL, Excel, Power BI, and Tableau**.
 
 The goal of this project is to derive **business-ready insights** around **load factor, route performance, capacity utilization, passenger trends, and revenue patterns**, and present them in a way that supports **strategic decision-making**.
 
