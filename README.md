@@ -65,7 +65,8 @@ HighCloud_Airlines_Analysis/
 │   └── Highcloud Airlines.pdf        # Project summary
 │
 ├── SQL/
-│   ├── Load Factor.sql              # Load factor & utilization analysis 
+│   ├── Load Factor.sql              # Load factor & utilization analysis
+│
 └── README.md
 ```
 
