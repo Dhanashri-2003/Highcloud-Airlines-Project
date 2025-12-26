@@ -50,13 +50,10 @@ Through this project, I gained hands-on experience in:
 
 ```
 HighCloud_Airlines_Analysis/
-│
-├── SQL/
-│   ├── Load Factor.sql              # Load factor & utilization analysis 
-│   
+│  
 │
 ├── Excel/
-│   └── Airlines project.xlsx        # Data validation & pivot checks
+│   └── Airlines project  - Image (File not included due to GitHub size limitations. Screenshot provided for reference.)
 │
 ├── Power BI/
 │   └── Airlines Power-bi Dashboard.pbix
@@ -66,7 +63,9 @@ HighCloud_Airlines_Analysis/
 │
 ├── Documentation/        
 │   └── Highcloud Airlines.pdf        # Project summary
-│ 
+│
+├── SQL/
+│   ├── Load Factor.sql              # Load factor & utilization analysis 
 └── README.md
 ```
 
